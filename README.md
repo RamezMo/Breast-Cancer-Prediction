@@ -1,4 +1,4 @@
-# Water_Quality-Predictor-Model : Machine Learning Model for Forecasting Water_Quality with nearly 95.3% accuracy
+# Breast-Cancer-Predictor-Model : Machine Learning Model for Forecasting Breast Cancer with nearly 94% accuracy
 
 ## Introduction
 
