@@ -79,11 +79,6 @@ df.describe()
 ![image](https://github.com/user-attachments/assets/bcaba26b-2972-43ae-be49-24cd4f88cb42)
 
 
-## Calculate the correlation matrix
-
-```python
-corr=water_data.corr()
-```
 
 ## Create a correlation heatmap for the subset of features
 #radius_mean have very strong positiver correlation with perimeter_mean,area_mean,radius_worst,area_worst and perimeter_worst
